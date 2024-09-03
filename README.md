@@ -10,4 +10,6 @@ Key points covered:
 
 For demonstration purposes, the tutorial uses a custom-generated fake dataset. This approach allows for a controlled environment to showcase the capabilities of both tools.
 
-The entire tutorial is written in Traditional Chinese, making it accessible to Chinese-speaking data scientists, researchers, and privacy professionals.
+The tutorial is written in Traditional Chinese, making it accessible to Chinese-speaking data scientists, researchers, and privacy professionals.
+
+The tutorial environment can be obtained on [DockerHub](https://hub.docker.com/r/alexcnics/sdv.tutorial) by pulling images, executing and mounting files `docker run -p 8888:8888 -v {TUTORIAL_FILE_PATH}:/home/jovyan alexcnics/sdv.tutorial:{TAG}`, or can be built from the Dockerfile in `Env`. Besides, you can install all required packages in `Env/requirements.txt` in Python 3.10 environment.
