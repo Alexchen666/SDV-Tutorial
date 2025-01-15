@@ -1,4 +1,4 @@
-# SDV-Tutorial
+# SDV Tutorial
 
 This tutorial demonstrates the use of two powerful tools in the field of synthetic data: [SDV (Synthetic Data Vault)](https://github.com/sdv-dev/SDV) and [Anonymeter](https://github.com/statice/anonymeter). The focus is on generating and evaluating synthetic data with SDV, followed by assessing the privacy risks of the generated data using Anonymeter.
 
